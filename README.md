@@ -3,6 +3,7 @@ Idea: Smart Arduino car controlled by trained CoreML modles by using ARKit's cam
 *Hardware:
 1. Elegoo smart car (https://www.elegoo.com/product/arduinocarv3-0/). Wiring diagram included on the website (Download section).
 2. iPhone 6s 
+
 *Software:
 1. Xcode (Version Version 10.1 beta 3)
 2. ARKit 2.0
